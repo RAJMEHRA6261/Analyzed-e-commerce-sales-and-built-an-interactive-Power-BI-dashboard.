@@ -28,3 +28,4 @@ Donut charts showing category and payment mode distribution
 Attractive dark-themed UI with clean, intuitive visuals
 
 6. Screenshots / Demos
+   https://github.com/RAJMEHRA6261/Analyzed-e-commerce-sales-and-built-an-interactive-Power-BI-dashboard./blob/main/ANALYSED%20E-COMMERCE%20SALES%20DATA%20CREATED%20A%20INTERACTED%20DASHBOARD%20USING%20POWER%20BI.png
